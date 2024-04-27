@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue.Js**
 
-- 👨‍💻 All of my projects are available at [https://rangerdevv-github-io.vercel.app/](https://rangerdevv-github-io.vercel.app/)
+- 👨‍💻 PORTFOLIO UNDER DEVELOPMENT!!!!
 
 - 💬 Ask me about **Tailwind, CSS, JS, Frontend**
 
