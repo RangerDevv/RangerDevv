@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rangerdevv" alt="rangerdevv" /></a> </p>
 
-- 🌱 I’m currently learning **Vue.Js**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 PORTFOLIO UNDER DEVELOPMENT!!!!
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **meerabdul2008@gmail.com**
 
-- ⚡ Fun fact **I love football ⚽⚽**
+- ⚡ Fun fact **I love mountain biking and going on LOOOOOOOOOOOOOOOOOOOOOOOOOOOOONG trails!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
